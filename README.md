@@ -8,8 +8,8 @@ In the wild you can find me trying all the new restaurants, rock climbing, and o
 🔭 I’m currently working on an AI generated image classifier using Transformers and CNN.
 
 ## 📫 How to reach me:
-Email: david@dhuynh.ca\
-Personal Website: dhuynh.ca
+Email: <david@dhuynh.ca>\
+Personal Website: [dhuynh.ca](https://www.dhuynh.ca)
 
 <!--
 **David-Huynh/David-Huynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
